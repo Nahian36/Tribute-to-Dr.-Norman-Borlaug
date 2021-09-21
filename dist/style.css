@@ -1,0 +1,54 @@
+/*Done by Nahian36*/
+#bd {
+    margin: 30px 10px;
+}
+
+#main {
+    text-align: center;
+    background-color: #eeeeee;
+    font-family: 'Hind Madurai', sans-serif;
+    color: #333333;
+    border-radius: 5px;
+  }
+  
+  #tribute-info {
+    max-width: 565px;
+    margin: 0px auto 50px auto;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+li {
+    margin: 16px 0px;
+}
+/*--Done by Nahian36*/
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+  #title {
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+  }
+  
+  #img-div {
+    background-color: white;
+    margin: 18px
+  }
+
+  #bla {
+      font-size: 20px;
+  }
+
+  #blaa {
+      text-align: left;
+      margin: 0px auto 0px 20px;
+  }
+/*--Done by Nahian36*/
